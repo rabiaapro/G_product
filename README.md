@@ -1,1 +1,1 @@
-# G_product
+# G_products
